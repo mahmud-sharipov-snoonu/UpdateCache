@@ -1,0 +1,6 @@
+@UpdateCache.Sample_HostAddress = http://localhost:5174
+
+GET {{UpdateCache.Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
